@@ -10,6 +10,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -25,149 +26,126 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://imgur.com/AfrIXhb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bZpiB4X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<b>STEP 1</b> - Creating Supreme Admin Account.
+<b>STEP 1</b> - Logging Into Help Desk System.
 <p>
 <br />
 
 <p>
-<img src="https://imgur.com/HhTmUI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ti5wHxI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<b>STEP 2</b> - Giving Them All Access.
+<b>STEP 2</b> - Opening New Ticket With <b>karen@lognpacific.com</b> Account.
 <p>
 <br />
 
 <p>
-<img src="https://imgur.com/Jrolkqu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0gA0O6O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 3</b> - Enabling Premade Settings.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/BKXV0r4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 4</b> - Role of Supreme Admin User Created Successfully.
+<b>STEP 3</b> - Entering Details & Summmary of The Problem.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/IOJW2rz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GvWgKfz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 5</b> - Adding a System Admin Department.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/JYSF9cR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 6</b> - Adding New Team That is Online Banking.
+<b>STEP 4</b> - Successfully Submitted The Ticket.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/6y5Z0oO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ci6kMsq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 7</b> - Adding New Agent Named <b>"Jane Doe"</b>.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/m1ecbCd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 8</b> - Setting Primary Access For Departments SysAdmins & Supreme Admin.
+<b>STEP 5</b> - Logging As One Of The Help Desk Agents (John).
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/8XK0Qic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fHipmBx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 9</b> - Assigning <b>Online Banking</b> To Have Access To Tickets.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/p8c2Ug6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 10</b> - Adding New Agent Named <b>"John Doe"</b>.
+<b>STEP 6</b> - Logged In And Ticket Request Is Popping Up.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/61frKFZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Q30jTuX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 11</b> - Assigning <b>Level 1 Support</b> To Have Access To Tickets.
+<b>STEP 7</b> - Troubleshooting/Giving John Doe <b>All Access</b>.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/c1G4HZy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>STEP 8</b> - Updating SLA For Ticket <b>(Sev-A)</b>.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/LJGtyOv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>STEP 9</b> - Updating Help Topic of Ticket.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/NyAkFsp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>STEP 10</b> - Assigning/ Handing Over Ticket To Handle Issue.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/fS5QSta.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<b>STEP 11</b> - Logging In As Jane Doe.
 </p>
 <br />
 
 <p> 
-<img src="https://imgur.com/k282eOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3PbgMiE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<b>STEP 12</b> - Creating New User Named Ken That Will Act As a Client.
+<b>STEP 12</b> - Jane Doe Who a Part Of Online Banking Will Take Over This Ticket.
 <p>
 <br />
 
 <p>
-<img src="https://imgur.com/og2aKAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GWybRYu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<b>STEP 13</b> - Creating New User Named Karen That Will Act As a Client
+<b>STEP 13</b> - Adding Further Updates & Observations.
 <p>
 <br />
 
 <p>
-<img src="https://imgur.com/eVJHXPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EwmWQ7r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 14</b> - Configuring Sev-A SLA.
+<b>STEP 14</b> - Updating The Ticket To Notify About The Cause and The Remediation Process.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/kUgvD0g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6qb81qz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>STEP 15</b> - Configuring Sev-B SLA.
+<b>STEP 15</b> - Marking The Ticket As Resolved.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/kM6CTH3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bZEgx3q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<b>**STEP 16**</b> - Configuring Sev-C SLA.
+<b>STEP 16</b> - Confirming That State of Ticket Has Changed.
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/KA7DM6J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 17</b> - Adding a New Help Topic.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/FBKgoQM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 18</b> - Adding a New Help <b>"Business Critical Outage"</b>
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/QTdFg39.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<b>STEP 19</b> - Adding a New Help Topic Adding a New Help <b>"Personal Computer Outage"</b>.
-</p>
-<br />
